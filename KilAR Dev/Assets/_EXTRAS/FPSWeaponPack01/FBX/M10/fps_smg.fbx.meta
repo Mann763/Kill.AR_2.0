@@ -1,0 +1,2484 @@
+fileFormatVersion: 2
+guid: 3ba0567986af7af4cac5b28b581f32db
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Arms_v2
+  - first:
+      1: 100002
+    second: deformRig
+  - first:
+      1: 100004
+    second: f_index.01.L
+  - first:
+      1: 100006
+    second: f_index.01.R
+  - first:
+      1: 100008
+    second: f_index.02.L
+  - first:
+      1: 100010
+    second: f_index.02.R
+  - first:
+      1: 100012
+    second: f_index.03.L
+  - first:
+      1: 100014
+    second: f_index.03.R
+  - first:
+      1: 100016
+    second: f_middle.01.L
+  - first:
+      1: 100018
+    second: f_middle.01.R
+  - first:
+      1: 100020
+    second: f_middle.02.L
+  - first:
+      1: 100022
+    second: f_middle.02.R
+  - first:
+      1: 100024
+    second: f_middle.03.L
+  - first:
+      1: 100026
+    second: f_middle.03.R
+  - first:
+      1: 100028
+    second: f_pinky.01.L
+  - first:
+      1: 100030
+    second: f_pinky.01.R
+  - first:
+      1: 100032
+    second: f_pinky.02.L
+  - first:
+      1: 100034
+    second: f_pinky.02.R
+  - first:
+      1: 100036
+    second: f_pinky.03.L
+  - first:
+      1: 100038
+    second: f_pinky.03.R
+  - first:
+      1: 100040
+    second: f_ring.01.L
+  - first:
+      1: 100042
+    second: f_ring.01.R
+  - first:
+      1: 100044
+    second: f_ring.02.L
+  - first:
+      1: 100046
+    second: f_ring.02.R
+  - first:
+      1: 100048
+    second: f_ring.03.L
+  - first:
+      1: 100050
+    second: f_ring.03.R
+  - first:
+      1: 100052
+    second: forearm.L
+  - first:
+      1: 100054
+    second: forearm.R
+  - first:
+      1: 100056
+    second: //RootNode
+  - first:
+      1: 100058
+    second: hand.L
+  - first:
+      1: 100060
+    second: hand.R
+  - first:
+      1: 100062
+    second: lowpoly01.001
+  - first:
+      1: 100064
+    second: palm.01.L
+  - first:
+      1: 100066
+    second: palm.01.R
+  - first:
+      1: 100068
+    second: palm.02.L
+  - first:
+      1: 100070
+    second: palm.02.R
+  - first:
+      1: 100072
+    second: palm.03.L
+  - first:
+      1: 100074
+    second: palm.03.R
+  - first:
+      1: 100076
+    second: palm.04.L
+  - first:
+      1: 100078
+    second: palm.04.R
+  - first:
+      1: 100080
+    second: thumb.01.L
+  - first:
+      1: 100082
+    second: thumb.01.R
+  - first:
+      1: 100084
+    second: thumb.02.L
+  - first:
+      1: 100086
+    second: thumb.02.R
+  - first:
+      1: 100088
+    second: thumb.03.L
+  - first:
+      1: 100090
+    second: thumb.03.R
+  - first:
+      1: 100092
+    second: upperArm.L
+  - first:
+      1: 100094
+    second: upperArm.R
+  - first:
+      1: 100096
+    second: w_bullet
+  - first:
+      1: 100098
+    second: w_cocker
+  - first:
+      1: 100100
+    second: w_ejector
+  - first:
+      1: 100102
+    second: w_grip
+  - first:
+      1: 100104
+    second: w_mag
+  - first:
+      1: 100106
+    second: w_stock
+  - first:
+      1: 100108
+    second: w_stockrail
+  - first:
+      1: 100110
+    second: w_trigger
+  - first:
+      4: 400000
+    second: Arms_v2
+  - first:
+      4: 400002
+    second: deformRig
+  - first:
+      4: 400004
+    second: f_index.01.L
+  - first:
+      4: 400006
+    second: f_index.01.R
+  - first:
+      4: 400008
+    second: f_index.02.L
+  - first:
+      4: 400010
+    second: f_index.02.R
+  - first:
+      4: 400012
+    second: f_index.03.L
+  - first:
+      4: 400014
+    second: f_index.03.R
+  - first:
+      4: 400016
+    second: f_middle.01.L
+  - first:
+      4: 400018
+    second: f_middle.01.R
+  - first:
+      4: 400020
+    second: f_middle.02.L
+  - first:
+      4: 400022
+    second: f_middle.02.R
+  - first:
+      4: 400024
+    second: f_middle.03.L
+  - first:
+      4: 400026
+    second: f_middle.03.R
+  - first:
+      4: 400028
+    second: f_pinky.01.L
+  - first:
+      4: 400030
+    second: f_pinky.01.R
+  - first:
+      4: 400032
+    second: f_pinky.02.L
+  - first:
+      4: 400034
+    second: f_pinky.02.R
+  - first:
+      4: 400036
+    second: f_pinky.03.L
+  - first:
+      4: 400038
+    second: f_pinky.03.R
+  - first:
+      4: 400040
+    second: f_ring.01.L
+  - first:
+      4: 400042
+    second: f_ring.01.R
+  - first:
+      4: 400044
+    second: f_ring.02.L
+  - first:
+      4: 400046
+    second: f_ring.02.R
+  - first:
+      4: 400048
+    second: f_ring.03.L
+  - first:
+      4: 400050
+    second: f_ring.03.R
+  - first:
+      4: 400052
+    second: forearm.L
+  - first:
+      4: 400054
+    second: forearm.R
+  - first:
+      4: 400056
+    second: //RootNode
+  - first:
+      4: 400058
+    second: hand.L
+  - first:
+      4: 400060
+    second: hand.R
+  - first:
+      4: 400062
+    second: lowpoly01.001
+  - first:
+      4: 400064
+    second: palm.01.L
+  - first:
+      4: 400066
+    second: palm.01.R
+  - first:
+      4: 400068
+    second: palm.02.L
+  - first:
+      4: 400070
+    second: palm.02.R
+  - first:
+      4: 400072
+    second: palm.03.L
+  - first:
+      4: 400074
+    second: palm.03.R
+  - first:
+      4: 400076
+    second: palm.04.L
+  - first:
+      4: 400078
+    second: palm.04.R
+  - first:
+      4: 400080
+    second: thumb.01.L
+  - first:
+      4: 400082
+    second: thumb.01.R
+  - first:
+      4: 400084
+    second: thumb.02.L
+  - first:
+      4: 400086
+    second: thumb.02.R
+  - first:
+      4: 400088
+    second: thumb.03.L
+  - first:
+      4: 400090
+    second: thumb.03.R
+  - first:
+      4: 400092
+    second: upperArm.L
+  - first:
+      4: 400094
+    second: upperArm.R
+  - first:
+      4: 400096
+    second: w_bullet
+  - first:
+      4: 400098
+    second: w_cocker
+  - first:
+      4: 400100
+    second: w_ejector
+  - first:
+      4: 400102
+    second: w_grip
+  - first:
+      4: 400104
+    second: w_mag
+  - first:
+      4: 400106
+    second: w_stock
+  - first:
+      4: 400108
+    second: w_stockrail
+  - first:
+      4: 400110
+    second: w_trigger
+  - first:
+      43: 4300000
+    second: Arms_v2
+  - first:
+      43: 4300002
+    second: lowpoly01.001
+  - first:
+      74: 7400000
+    second: deformRig|Action.001
+  - first:
+      74: 7400002
+    second: deformRig|controlRigAction.001
+  - first:
+      74: 7400004
+    second: deformRig|controlRigAction.002
+  - first:
+      74: 7400006
+    second: deformRig|controlRigAction.005
+  - first:
+      74: 7400008
+    second: deformRig|controlRigAction
+  - first:
+      74: 7400010
+    second: m10_aim
+  - first:
+      74: 7400012
+    second: m10_aimShootAuto
+  - first:
+      74: 7400014
+    second: m10_aimShootSemiAuto_RO
+  - first:
+      74: 7400016
+    second: m10_idle
+  - first:
+      74: 7400018
+    second: m10_jump
+  - first:
+      74: 7400020
+    second: m10_land
+  - first:
+      74: 7400022
+    second: m10_lower
+  - first:
+      74: 7400024
+    second: m10_raise
+  - first:
+      74: 7400026
+    second: m10_reload_RO
+  - first:
+      74: 7400028
+    second: m10_run
+  - first:
+      74: 7400030
+    second: m10_shootAuto
+  - first:
+      74: 7400032
+    second: m10_shootSemiAuto_RO
+  - first:
+      74: 7400034
+    second: m10_uncocked
+  - first:
+      74: 7400036
+    second: m10_walk
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Arms_v2
+  - first:
+      137: 13700002
+    second: lowpoly01.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.1
+    animationPositionError: 0.1
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: m10_aim
+      takeName: deformRig|m10_aim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_aimShootAuto
+      takeName: deformRig|m10_aimShootAuto
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_aimShootSemiAuto_RO
+      takeName: deformRig|m10_aimShootSemiAuto
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_idle
+      takeName: deformRig|m10_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_jump
+      takeName: deformRig|m10_jump
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_land
+      takeName: deformRig|m10_land
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_lower
+      takeName: deformRig|m10_lower
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_raise
+      takeName: deformRig|m10_raise
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_reload_RO
+      takeName: deformRig|m10_reload
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_run
+      takeName: deformRig|m10_run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_shootAuto
+      takeName: deformRig|m10_shootAuto
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_shootSemiAuto_RO
+      takeName: deformRig|m10_shootSemiAuto
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_uncocked
+      takeName: deformRig|m10_uncocked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: m10_walk
+      takeName: deformRig|m10_walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms_v2
+        weight: 1
+      - path: deformRig
+        weight: 1
+      - path: deformRig/upperArm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: deformRig/upperArm.L/forearm.L/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: deformRig/upperArm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: deformRig/upperArm.R/forearm.R/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: deformRig/w_bullet
+        weight: 1
+      - path: deformRig/w_grip
+        weight: 1
+      - path: deformRig/w_grip/w_cocker
+        weight: 1
+      - path: deformRig/w_grip/w_ejector
+        weight: 1
+      - path: deformRig/w_grip/w_mag
+        weight: 1
+      - path: deformRig/w_grip/w_stock
+        weight: 1
+      - path: deformRig/w_grip/w_stockrail
+        weight: 1
+      - path: deformRig/w_grip/w_trigger
+        weight: 1
+      - path: lowpoly01.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
